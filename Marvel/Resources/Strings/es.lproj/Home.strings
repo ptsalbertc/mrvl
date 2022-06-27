@@ -1,0 +1,11 @@
+/* 
+  Home.strings
+  Marvel
+
+  Created by Albert on 17/2/22.
+  
+*/
+
+"characters" = "Personajes";
+"favs" = "Favoritos";
+"searchbar_placeholder" = "Buscar personajes";
